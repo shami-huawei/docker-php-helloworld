@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello, World from Docker! <br>";
-echo "Hello ECS! <br>";
-echo '<img src="https://www.docker.com/sites/default/files/horizontal.png">';
+echo "Hello, Mr. Chenliang ! <br>";
+echo "Hello from ServiceStage! <br>";
+echo '<img src="https://support.huaweicloud.com/intl/en-us/productdesc-cce/en-us_image_0000001127367963.png">';
 
 ?>
