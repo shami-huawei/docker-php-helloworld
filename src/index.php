@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello, Mr. Chenliang ! <br>";
+echo "Hello, Gartner Team ! <br>";
 echo "Hello from ServiceStage! <br>";
-echo '<img src="https://www.huawei.com/minisite/cloud-ai-live/images/en/L2-2.png">';
+echo '<img src="https://www.clipartmax.com/png/full/200-2001345_latest-news-gartner-magic-quadrant-logo.png">';
 
 ?>
