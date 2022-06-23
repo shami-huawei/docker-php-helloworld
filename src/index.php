@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello, Vodafone ! <br>";
+echo "Hello, Huawei Cloud Presentation Compeitition Judges ! <br>";
 echo "Hello from ServiceStage & CCE! <br>";
-echo '<img src="https://play-lh.googleusercontent.com/-QhoSppuqh9zKzKeNAGNJF2bTdw03l3iDqtYShfMcHLOiBjsiEUMFfEayOu0b5wiGUw">';
+echo '<img src="https://support.huaweicloud.com/intl/en-us/productdesc-cce/en-us_image_0000001127367963.png">';
 
 ?>
