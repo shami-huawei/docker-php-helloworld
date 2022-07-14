@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello, Meezan Bank ! <br>";
+echo "Hello, Vodafone ! <br>";
 echo "Hello from ServiceStage & CCE! <br>";
-echo '<img src="https://www.fintechfutures.com/files/2020/01/meezan.jpg">';
+echo '<img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/02/vodafone-cloud-hibrida-nube.jpg">';
 
 ?>
